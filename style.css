@@ -1,0 +1,33 @@
+body{
+  height: 12rem;
+  width: 5;
+  background-color: rgba(200, 200, 200, 0.842);
+  background-repeat: no-repeat;
+  margin-left: 31rem;
+}
+
+p{
+  padding-left: 0.5rem;
+  padding-top: 0.2rem;
+  width: 120px;
+  height: 23px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 0.3rem;
+  background-color: bisque;
+  color: rgb(1, 126, 13);
+  margin-left: 1.2rem;
+  margin-right: 40rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+  margin-left: 1rem;
+}
+
+button{
+  margin-left: 3.5rem;
+  background-color: rgb(9, 4, 78);
+  color: white;
+  border-radius: 0.3rem;
+}
